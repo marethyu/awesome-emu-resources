@@ -10,6 +10,7 @@
 * https://github.com/drhelius/Gearboy
 * https://github.com/Jonazan2/PatBoy
 * https://bitbucket.org/pypy/lang-gameboy/src/default/
+* https://github.com/tbtommyb/goboy
 * https://bitbucket.org/xampf/r_gb/src/master/
 * https://github.com/Gekkio/mooneye-gb
 * https://github.com/simias/gaembuoy
