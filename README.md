@@ -1,4 +1,4 @@
-# Emulator resources
+# Awesome Emulator Development Resources
 
 ## GB Resources
 
