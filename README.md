@@ -67,7 +67,7 @@
 * wiki https://github.com/dooskington/gamelad/wiki
 * gb programming manual v1.1 https://ia803208.us.archive.org/9/items/GameBoyProgManVer1.1/GameBoyProgManVer1.1.pdf
 * gb opcodes https://izik1.github.io/gbops/
-* zilog cpu user manual https://www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080&extn=.pdf
+* zilog cpu user manual https://zany80.github.io/documentation/Z80/UserManual.html
 
 ### Tests
 * blargg tests https://gbdev.gg8.se/files/roms/blargg-gb-tests/
