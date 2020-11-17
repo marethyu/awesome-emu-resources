@@ -9,6 +9,7 @@
 ### Emulator source codes
 * https://github.com/drhelius/Gearboy
 * https://github.com/Jonazan2/PatBoy
+* https://github.com/spec-chum/SpecBoy
 * https://bitbucket.org/pypy/lang-gameboy/src/default/
 * https://github.com/tbtommyb/goboy
 * https://bitbucket.org/xampf/r_gb/src/master/
