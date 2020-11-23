@@ -14,6 +14,7 @@
 * https://github.com/tbtommyb/goboy
 * https://bitbucket.org/xampf/r_gb/src/master/
 * https://github.com/oo-00/php-terminal-gameboy-emulator
+* https://github.com/Xyene/Nitrous-Emulator
 * https://github.com/Gekkio/mooneye-gb
 * https://github.com/simias/gaembuoy
 * https://github.com/sinamas/gambatte
