@@ -140,6 +140,10 @@
 * gba resources https://en.wikibooks.org/wiki/GBA_Development/Resources
 * blog post https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606
 
+## PS1
+* http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
+* https://github.com/simias/psx-guide
+
 ## JIT
 
 * https://github.com/spencertipping/jit-tutorial
