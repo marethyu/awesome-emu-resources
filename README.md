@@ -32,6 +32,7 @@
 * https://github.com/GoldenCrystal/CrystalBoy
 * https://github.com/Humpheh/goboy
 * https://github.com/JamesPeters98/JavaGameboyEmulator
+* https://github.com/danwsong/gemuboi-js
 * https://github.com/LIJI32/SameBoy
 * https://github.com/LilaQ/q00_gb
 * https://github.com/Washi1337/Emux
