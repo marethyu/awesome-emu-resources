@@ -158,5 +158,6 @@
 * emudev discord server resources
 * emu docs https://github.com/shonumi/Emu-Docs
 * emulators https://problemkaputt.de/
+* https://old.reddit.com/r/EmuDev/comments/jorn6a/which_parts_of_an_emulator_can_run_in_parallel/
 * ??? https://scrapbox.io/gameboy/
 * how emulators work https://stackoverflow.com/questions/448673/how-do-emulators-work-and-how-are-they-written/448689
