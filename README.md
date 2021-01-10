@@ -11,6 +11,7 @@
 * https://gitlab.com/BenWiser/gameboy-emulator
 * https://github.com/Jonazan2/PatBoy
 * https://github.com/spec-chum/SpecBoy
+* https://github.com/UnsafePointer/shinobu
 * https://bitbucket.org/pypy/lang-gameboy/src/default/
 * https://github.com/tbtommyb/goboy
 * https://bitbucket.org/xampf/r_gb/src/master/
@@ -144,6 +145,8 @@
 ## PS1
 * http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
 * https://github.com/simias/psx-guide
+* https://github.com/UnsafePointer/ruby
+* http://problemkaputt.de/psx-spx.htm
 
 ## JIT
 
