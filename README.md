@@ -117,6 +117,7 @@
 * goboy blog post https://tmjohnson.co.uk/posts/goboy-1/
 * gb sound resources https://www.reddit.com/r/EmuDev/comments/5gkwi5/gb_apu_sound_emulation/dat3zni/
 * project tips https://www.reddit.com/r/EmuDev/comments/ac4upo/gb_emulator_project_tips/
+* https://www.reddit.com/r/EmuDev/comments/kqwgot/gameboy_emulator_my_experience/
 
 ## GBA resources
 
