@@ -10,6 +10,7 @@
 * https://github.com/drhelius/Gearboy
 * https://gitlab.com/BenWiser/gameboy-emulator
 * https://github.com/Jonazan2/PatBoy
+* https://github.com/7thSamurai/Azayaka
 * https://github.com/spec-chum/SpecBoy
 * https://github.com/UnsafePointer/shinobu
 * https://bitbucket.org/pypy/lang-gameboy/src/default/
