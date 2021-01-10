@@ -20,6 +20,7 @@
 * https://github.com/simias/gaembuoy
 * https://github.com/sinamas/gambatte
 * https://github.com/trekawek/coffee-gb
+* https://github.com/min050820/rust-gb
 * https://github.com/taisel/GameBoy-Online
 * https://github.com/Akatsuki-py/Worldwide
 * https://github.com/B13rg/VGBC
