@@ -121,6 +121,7 @@
 ### Emulator source codes
 * https://github.com/AntonioND/giibiiadvance (includes gb and gbc)
 * https://github.com/fleroviux/NanoboyAdvance
+* https://github.com/DenSinH/DSHBA
 
 ### Documentation
 * programming manual http://cdn.preterhuman.net/texts/gaming_and_diversion/Gameboy%20Advance%20Programming%20Manual%20v1.1.pdf
