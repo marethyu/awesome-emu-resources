@@ -50,6 +50,8 @@
 * https://github.com/paramsingh/gameboi
 * https://github.com/qkmaxware/GBemu
 * https://github.com/rukai/GameToy
+* https://github.com/aksiksi/gbc
+* https://github.com/aksiksi/gbcemu
 
 ### Documentation
 * pandocs http://bgb.bircd.org/pandocs.htm
@@ -118,6 +120,7 @@
 * gb sound resources https://www.reddit.com/r/EmuDev/comments/5gkwi5/gb_apu_sound_emulation/dat3zni/
 * project tips https://www.reddit.com/r/EmuDev/comments/ac4upo/gb_emulator_project_tips/
 * https://www.reddit.com/r/EmuDev/comments/kqwgot/gameboy_emulator_my_experience/
+* https://www.reddit.com/r/EmuDev/comments/l7k23y/gbcemu_yet_another_gameboy_color_emulator_written/
 
 ## GBA resources
 
