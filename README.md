@@ -52,6 +52,7 @@
 * https://github.com/rukai/GameToy
 * https://github.com/aksiksi/gbc
 * https://github.com/aksiksi/gbcemu
+* https://github.com/Amjad50/mizu
 
 ### Documentation
 * pandocs http://bgb.bircd.org/pandocs.htm
