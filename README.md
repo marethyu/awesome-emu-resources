@@ -92,6 +92,7 @@
 ### Tutorials
 * how to build gb http://emudev.de/gameboy-emulator/overview/
 * gb emulator in js http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU
+* audio https://nightshade256.github.io/2021/03/27/gb-sound-emulation.html
 * building gb emulator guide http://www.codeslinger.co.uk/pages/projects/gameboy.html
 * book https://blog.ryanlevick.com/DMG-01/public/book/
 * memory bank switching explained https://b13rg.github.io/Gameboy-Bank-Switching/
