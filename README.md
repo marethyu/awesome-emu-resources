@@ -20,6 +20,7 @@
 * https://github.com/oo-00/php-terminal-gameboy-emulator
 * https://github.com/Xyene/Nitrous-Emulator
 * https://github.com/Gekkio/mooneye-gb
+* https://github.com/VelocityRa/rustboy
 * https://github.com/simias/gaembuoy
 * https://github.com/sinamas/gambatte
 * https://github.com/trekawek/coffee-gb
@@ -156,6 +157,7 @@
 * http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
 * https://github.com/simias/psx-guide
 * https://github.com/UnsafePointer/ruby
+* https://github.com/VelocityRa/pctation
 * http://problemkaputt.de/psx-spx.htm
 
 ## JIT
