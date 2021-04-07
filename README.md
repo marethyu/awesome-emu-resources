@@ -40,6 +40,7 @@
 * https://github.com/danwsong/gemuboi-js
 * https://github.com/LIJI32/SameBoy
 * https://github.com/LilaQ/q00_gb
+* https://github.com/Hacktix/TixBoy
 * https://github.com/Washi1337/Emux
 * https://github.com/alexaladren/jsgameboy
 * https://github.com/cslarsen/gameboy
@@ -126,6 +127,7 @@
 * https://www.reddit.com/r/EmuDev/comments/kqwgot/gameboy_emulator_my_experience/
 * https://www.reddit.com/r/EmuDev/comments/l7k23y/gbcemu_yet_another_gameboy_color_emulator_written/
 * see GB section in emudev.org/system_resources
+* custom Boot ROM https://github.com/Hacktix/Bootix
 
 ## GBA resources
 
