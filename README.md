@@ -103,7 +103,7 @@
 * building gb emu https://brianbove.com/blog/2017/05/29/building-a-gameboy-clone-from-scratch-part-1-emulation/
 * building cinoop https://cturt.github.io/cinoop.html
 * booting gb with custom logo https://dhole.github.io/post/gameboy_custom_logo/
-* writing an emulator https://github.com/lazy-stripes/writing-an-emulator anf https://blog.tigris.fr/category/emulator/
+* writing an emulator https://github.com/lazy-stripes/writing-an-emulator and https://blog.tigris.fr/category/emulator/
 * building realboy https://realboyemulator.wordpress.com/posts/
 * learning gb https://www.retroreversing.com/gameboy/
 * https://hacktix.github.io/GBEDG/
