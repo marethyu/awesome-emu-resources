@@ -130,6 +130,7 @@
 * https://www.reddit.com/r/EmuDev/comments/l7k23y/gbcemu_yet_another_gameboy_color_emulator_written/
 * see GB section in emudev.org/system_resources
 * custom Boot ROM https://github.com/Hacktix/Bootix
+* PokeGB https://binji.github.io/posts/pokegb/
 
 ## GBA resources
 
