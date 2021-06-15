@@ -164,8 +164,10 @@
 * http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
 * https://github.com/simias/psx-guide
 * https://github.com/UnsafePointer/ruby
-* https://github.com/VelocityRa/pctation
+* https://github.com/VelocityRa/ptation
 * http://problemkaputt.de/psx-spx.htm
+* https://psx-spx.consoledev.net/
+* see PS1 section in emudev.org/system_resources
 
 ## JIT
 
