@@ -162,7 +162,7 @@
 
 ## PS1
 * http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
-* https://github.com/simias/psx-guide
+* https://github.com/simias/psx-guide (https://svkt.org/~simias/guide.pdf)
 * https://github.com/UnsafePointer/ruby
 * https://github.com/VelocityRa/ptation
 * http://problemkaputt.de/psx-spx.htm
