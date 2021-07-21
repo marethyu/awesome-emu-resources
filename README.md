@@ -131,6 +131,7 @@
 * see GB section in emudev.org/system_resources
 * custom Boot ROM https://github.com/Hacktix/Bootix
 * PokeGB https://binji.github.io/posts/pokegb/
+* https://keichi.dev/post/write-yourself-a-game-boy-emulator/
 
 ## GBA resources
 
