@@ -177,6 +177,7 @@
 * http://www.6502.org/tutorials/6502opcodes.html
 * https://codegolf.stackexchange.com/questions/12844/emulate-a-mos-6502-cpu (have tests inside)
 * http://6502asm.com/ (interesting programs inside)
+* https://www.reddit.com/r/EmuDev/comments/ojhf1y/a_minimal_singlestepped_and_beginner_friendly/
 
 ### Graphics
 * https://web.archive.org/web/20190630142035/https://n3s.io/index.php?title=How_It_Works
@@ -206,6 +207,7 @@
 * https://nesdev.com/NES%20emulator%20development%20guide.txt
 * http://fceux.com/web/help/NESProcessor.html
 * https://bugzmanov.github.io/nes_ebook/chapter_1.html
+* https://hacktixme.ga/NESEDG/
 
 ### Implementation
 * https://prilik.com/ANESE/
