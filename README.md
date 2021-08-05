@@ -161,6 +161,92 @@
 * blog post https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606
 * https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02
 
+## NES resources
+
+### Docs
+* http://wiki.nesdev.com/w/index.php/Nesdev_Wiki
+* http://problemkaputt.de/everynes.htm
+* https://www.nesdev.com/NESDoc.pdf
+
+### CPU
+* http://nesdev.com/6502_cpu.txt
+* http://www.slack.net/~ant/nes-emu/6502.html
+* http://www.obelisk.me.uk/6502/
+* https://www.masswerk.at/6502/6502_instruction_set.html
+* https://github.com/davepoo/6502Emulator
+* http://www.6502.org/tutorials/6502opcodes.html
+* https://codegolf.stackexchange.com/questions/12844/emulate-a-mos-6502-cpu (have tests inside)
+* http://6502asm.com/ (interesting programs inside)
+
+### Graphics
+* https://web.archive.org/web/20190630142035/https://n3s.io/index.php?title=How_It_Works
+* https://www.reddit.com/r/EmuDev/comments/7k08b9/not_sure_where_to_start_with_the_nes_ppu/
+* https://wiki.nesdev.com/w/images/d/d1/Ntsc_timing.png
+* https://www.reddit.com/r/EmuDev/comments/evu3u2/what_does_the_nes_ppu_actually_do/
+* https://www.reddit.com/r/EmuDev/comments/d49igt/how_should_i_implement_ppu_nes/
+* https://www.reddit.com/r/EmuDev/comments/ht0ajj/ppu_emulation_issue/
+
+### APU
+* http://www.slack.net/~ant/nes-emu/apu_ref.txt
+
+### Tests
+* https://github.com/koute/pinky/tree/master/mos6502/roms
+* http://wiki.nesdev.com/w/index.php/Emulator_tests
+* https://github.com/Klaus2m5/6502_65C02_functional_tests
+* http://www.qmtpro.com/~nes/misc/ (nestest inside)
+* http://tasvideos.org/EmulatorResources/NESAccuracyTests.html
+
+### Useful guides
+* https://jeffreyxiao.me/blog/writing-an-nes-emulator-with-rust-and-webassembly
+* https://www.reddit.com/r/EmuDev/comments/9s755i/is_there_a_comprehensive_nes_emulation_guide/ (some links inside)
+* http://www.michaelburge.us/2019/03/18/nes-design.html
+* https://emudev.de/nes-emulator/overview/ (some links inside)
+* https://nwidger.github.io/blog/post/writing-an-nes-emulator-in-go-part-1/
+* https://yizhang82.dev/nes-emu-overview
+* https://nesdev.com/NES%20emulator%20development%20guide.txt
+* http://fceux.com/web/help/NESProcessor.html
+* https://bugzmanov.github.io/nes_ebook/chapter_1.html
+
+### Implementation
+* https://prilik.com/ANESE/
+* https://github.com/PeterLemon/NES
+* https://github.com/OneLoneCoder/olcNES
+* https://github.com/yizhang82/neschan
+* https://github.com/Xyene/Emulator.NES
+* https://github.com/AndreaOrru/LaiNES
+* https://github.com/amhndu/SimpleNES
+* https://github.com/wpmed92/MedNES
+
+### Tools
+* http://www.6502.org/tools/asm/
+* http://manpages.ubuntu.com/manpages/trusty/man1/as86.1.html
+
+### Other
+* https://www.copetti.org/writings/consoles/nes/
+* https://emudev.org/system_resources#nintendo-entertainment-system
+* https://www.youtube.com/playlist?app=desktop&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf
+* http://www.qmtpro.com/~nes/
+* https://www.youtube.com/watch?v=y71lli8MS8s
+* https://bheisler.github.io/post/nes-rom-parser-with-nom/
+* https://github.com/pjhades/tolarian-academy/blob/master/nes-architecture.md
+* https://github.com/pjhades/tolarian-academy/blob/master/nes-irq.md
+* https://github.com/pjhades/tolarian-academy/blob/master/nes-ppu.md
+* http://nnarain.github.io/2020/04/15/nescore-NES-Emulator-written-in-Rust.html
+
+#### Building NES games
+* https://famicom.party/book/
+* http://skilldrick.github.io/easy6502/ (also cpu tutorial)
+* https://en.wikibooks.org/wiki/Category:Book:NES_Programming
+* https://nesdoug.com/
+* https://shiru.untergrund.net/articles/programming_nes_games_in_c.htm
+* https://github.com/jmk/cc65-nes-examples
+* https://cc65.github.io/doc/nes.html
+* https://nerdy-nights.nes.science/
+* https://taywee.github.io/NerdyNights/nerdynights.html
+* https://gist.github.com/wkjagt/9043907 (snake game)
+* https://cppchriscpp.github.io/nes-starter-kit//home.html
+* https://mike42.me/blog/2021-04-building-my-first-nes-game-a-retrospective
+
 ## PS1
 * http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
 * https://github.com/simias/psx-guide (https://svkt.org/~simias/guide.pdf)
