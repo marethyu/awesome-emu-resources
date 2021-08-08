@@ -197,6 +197,7 @@
 * https://github.com/Klaus2m5/6502_65C02_functional_tests
 * http://www.qmtpro.com/~nes/misc/ (nestest inside)
 * http://tasvideos.org/EmulatorResources/NESAccuracyTests.html
+* https://github.com/christopherpow/nes-test-roms
 
 ### Useful guides
 * https://jeffreyxiao.me/blog/writing-an-nes-emulator-with-rust-and-webassembly
