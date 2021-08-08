@@ -167,6 +167,7 @@
 * http://wiki.nesdev.com/w/index.php/Nesdev_Wiki
 * http://problemkaputt.de/everynes.htm
 * https://www.nesdev.com/NESDoc.pdf
+* http://www.cs.columbia.edu/~sedwards/classes/2020/4840-spring/reports/nes.pdf
 
 ### CPU
 * http://nesdev.com/6502_cpu.txt
