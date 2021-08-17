@@ -92,6 +92,7 @@
 * mooneye gb test roms https://gekkio.fi/files/mooneye-gb/latest/
 * yet another test roms https://github.com/mattcurrie/mealybug-tearoom-tests
 * test roms https://github.com/retrio/gb-test-roms
+* collection of test roms https://github.com/c-sp/gameboy-test-roms
 
 ### Tutorials
 * how to build gb http://emudev.de/gameboy-emulator/overview/
