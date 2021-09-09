@@ -172,6 +172,7 @@
 
 ### CPU
 * http://nesdev.com/6502_cpu.txt
+* https://www.nesdev.com/6502.txt
 * http://www.slack.net/~ant/nes-emu/6502.html
 * http://www.obelisk.me.uk/6502/
 * https://www.masswerk.at/6502/6502_instruction_set.html
