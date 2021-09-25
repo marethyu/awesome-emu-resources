@@ -261,6 +261,8 @@
 * http://problemkaputt.de/psx-spx.htm
 * https://psx-spx.consoledev.net/
 * see PS1 section in emudev.org/system_resources
+* https://www.copetti.org/writings/consoles/playstation/#sources (gold inside)
+* https://emudev.org/2020/03/27/PSX_BIOS.html
 
 ## JIT
 
