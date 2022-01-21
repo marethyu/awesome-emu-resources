@@ -161,6 +161,7 @@
 * gba resources https://en.wikibooks.org/wiki/GBA_Development/Resources
 * blog post https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606
 * https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02
+* https://github.com/gbdev/awesome-gbadev
 
 ## NES resources
 
