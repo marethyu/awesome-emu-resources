@@ -284,6 +284,7 @@
 * emudev https://emudev.org/
 * emudev discord server resources
 * emu docs https://github.com/shonumi/Emu-Docs
+* japanese docs https://github.com/pokemium/emu-docs-ja
 * emulators https://problemkaputt.de/
 * https://old.reddit.com/r/EmuDev/comments/jorn6a/which_parts_of_an_emulator_can_run_in_parallel/
 * ??? https://scrapbox.io/gameboy/
