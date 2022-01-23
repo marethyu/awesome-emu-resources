@@ -151,6 +151,7 @@
 * gba hardware overview https://www.coranac.com/tonc/text/hardware.htm
 * cowbite gba emu docs https://www.cs.rit.edu/~tjh8300/CowBite/CowBiteSpec.htm
 * arm datasheet https://www.dwedit.org/files/ARM7TDMI.pdf
+* programming manual https://www.scribd.com/document/198178973/GameBoy-Advance-Programming-Manual
 
 ### Tutorials
 * gba programming guide http://www.coranac.com/tonc/text/toc.htm
