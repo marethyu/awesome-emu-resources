@@ -255,6 +255,7 @@
 * https://gist.github.com/wkjagt/9043907 (snake game)
 * https://cppchriscpp.github.io/nes-starter-kit//home.html
 * https://mike42.me/blog/2021-04-building-my-first-nes-game-a-retrospective
+* http://gikofami.fc2web.com/ (jp)
 
 ## PS1
 * http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
