@@ -268,6 +268,7 @@
 * https://www.copetti.org/writings/consoles/playstation/#sources (gold inside)
 * https://emudev.org/2020/03/27/PSX_BIOS.html
 * https://ps1.consoledev.net/
+* https://github.com/JaCzekanski/ps1-tests
 
 ## JIT
 
