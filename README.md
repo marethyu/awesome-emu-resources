@@ -280,6 +280,7 @@
 ## Miscellaneous
 
 * emudev http://emudev.de/
+* Common bugs https://github.com/mattrberry/common-emudev-bugs
 * Guide to writing emulators http://emulator101.com/
 * How emulators work http://imrannazar.com/How-Emulators-Work%3A-a-presentation
 * console architecture overview https://copetti.org/projects/consoles/
