@@ -291,21 +291,26 @@
 - https://problemkaputt.de/psx-spx.htm
 - https://web.archive.org/web/20190713020355/http://www.elisanet.fi/6581/PSX/doc/Playstation_Hardware.pdf - has a really clear explaination of vram and texture pages along with other confusing stuff
 - http://hitmen.c02.at/files/docs/psx/psx.pdf
+- http://hitmen.c02.at/html/psx_docs.html
+- https://drhell.web.fc2.com/ps1/index.html
 
 ### Guides
 - https://github.com/simias/psx-guide
 - https://www.reddit.com/r/EmuDev/comments/fmhtcn
 
 ### Emulators
-- https://gitlab.com/flio/rustation-ng/
-- https://github.com/UnsafePointer/ruby
 - https://github.com/grumpycoders/pcsx-redux - really good one with debugger
 - no$psx https://problemkaputt.de/psx.htm
+- https://gitlab.com/flio/rustation-ng/
+- https://github.com/UnsafePointer/ruby
 
 ### tests
+- https://emulation.gametechwiki.com/index.php/PS1_Tests
+- https://github.com/PeterLemon/PSX
+- https://github.com/JaCzekanski/ps1-tests
 - https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src
 - https://github.com/simias/psx-hardware-tests/tree/master/tests
-- https://github.com/PeterLemon/PSX
+- https://www.pouet.net/prodlist.php?order=thumbup&platform%5B0%5D=Playstation&page=1
 
 ### Others
 - https://emudev.org/2020/03/27/PSX_BIOS.html
