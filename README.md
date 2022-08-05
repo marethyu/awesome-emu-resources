@@ -152,17 +152,43 @@
 * cowbite gba emu docs https://www.cs.rit.edu/~tjh8300/CowBite/CowBiteSpec.htm
 * arm datasheet https://www.dwedit.org/files/ARM7TDMI.pdf
 * programming manual https://www.scribd.com/document/198178973/GameBoy-Advance-Programming-Manual
+* arm decoding table https://merryhime.github.io/gba-doc/CPU/arm-table.html
+* https://www.intel.com/content/dam/support/us/en/programmable/support-resources/bulk-container/pdfs/literature/third-party/ddi0100e-arm-arm.pdf
+* https://github.com/mara-kr/GBA/tree/master/doc
+* https://merryhime.github.io/gba-doc/
 
 ### Tutorials
 * gba programming guide http://www.coranac.com/tonc/text/toc.htm
 * gba dev https://jamiedstewart.github.io/category/Game%20Boy%20Advance.html
 * writing gba game https://www.reinterpretcast.com/writing-a-game-boy-advance-game
+* https://www.chibialiens.com/arm/helloworld.php#LessonH2
 
 ### Others
 * gba resources https://en.wikibooks.org/wiki/GBA_Development/Resources
 * blog post https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606
 * https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02
 * https://github.com/gbdev/awesome-gbadev
+* https://www.gregorygaines.com/blog/decoding-the-arm7tdmi-instruction-set-game-boy-advance/
+* https://beanmachine.alt.icu/post/rtc/
+* https://github.com/JimB16/GBABios/blob/master/GBABios.s
+* http://ianfinlayson.net/class/cpsc305/notes/13-tiles
+* https://www.reddit.com/r/EmuDev/comments/7y3s1b/yet_another_gba_emulator_question_by_a_total_noob/
+* https://mgba.io/2015/06/27/cycle-counting-prefetch/
+
+### Tests
+* https://github.com/destoer/armwrestler-gba-fixed
+* https://github.com/jsmolka/gba-suite
+* https://github.com/DenSinH/GBARoms
+* https://github.com/destoer/gba_tests
+* https://github.com/ladystarbreeze/GBA-Test-Collection
+* https://github.com/DenSinH/FuzzARM
+* https://github.com/PeterLemon/GBA
+* https://github.com/shonumi/Emu-Docs/tree/master/GameBoy%20Advance/test_roms
+* https://github.com/nba-emu/hw-test
+* https://github.com/mgba-emu/suite
+* https://tcrf.net/AGS_Aging_Cartridge
+* https://github.com/skylersaleh/GBA-Logs
+* https://github.com/samkravitz/gba-acid
 
 ## NES resources
 
@@ -258,17 +284,30 @@
 * http://gikofami.fc2web.com/ (jp)
 
 ## PS1
-* http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
-* https://github.com/simias/psx-guide (https://svkt.org/~simias/guide.pdf)
-* https://github.com/UnsafePointer/ruby
-* https://github.com/VelocityRa/ptation
-* http://problemkaputt.de/psx-spx.htm
-* https://psx-spx.consoledev.net/
-* see PS1 section in emudev.org/system_resources
-* https://www.copetti.org/writings/consoles/playstation/#sources (gold inside)
-* https://emudev.org/2020/03/27/PSX_BIOS.html
-* https://ps1.consoledev.net/
-* https://github.com/JaCzekanski/ps1-tests
+
+### General
+- https://ps1.consoledev.net/
+- https://www.copetti.org/writings/consoles/playstation/#sources
+- https://problemkaputt.de/psx-spx.htm
+- https://web.archive.org/web/20190713020355/http://www.elisanet.fi/6581/PSX/doc/Playstation_Hardware.pdf - has a really clear explaination of vram and texture pages along with other confusing stuff
+- http://hitmen.c02.at/files/docs/psx/psx.pdf
+
+### Guides
+- https://github.com/simias/psx-guide
+- https://www.reddit.com/r/EmuDev/comments/fmhtcn
+
+### Source codes
+- https://gitlab.com/flio/rustation-ng/
+- https://github.com/UnsafePointer/ruby
+
+### tests
+- https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src
+- https://github.com/simias/psx-hardware-tests/tree/master/tests
+- https://github.com/PeterLemon/PSX
+
+### Others
+- https://emudev.org/2020/03/27/PSX_BIOS.html
+- psx section in https://emudev.org/system_resources
 
 ## JIT
 
