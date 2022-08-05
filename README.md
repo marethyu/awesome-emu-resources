@@ -296,9 +296,11 @@
 - https://github.com/simias/psx-guide
 - https://www.reddit.com/r/EmuDev/comments/fmhtcn
 
-### Source codes
+### Emulators
 - https://gitlab.com/flio/rustation-ng/
 - https://github.com/UnsafePointer/ruby
+- https://github.com/grumpycoders/pcsx-redux - really good one with debugger
+- no$psx https://problemkaputt.de/psx.htm
 
 ### tests
 - https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src
