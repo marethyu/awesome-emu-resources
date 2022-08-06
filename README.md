@@ -156,6 +156,7 @@
 * https://www.intel.com/content/dam/support/us/en/programmable/support-resources/bulk-container/pdfs/literature/third-party/ddi0100e-arm-arm.pdf
 * https://github.com/mara-kr/GBA/tree/master/doc
 * https://merryhime.github.io/gba-doc/
+* http://gbadev.net/gbadoc/intro.html
 
 ### Tutorials
 * gba programming guide http://www.coranac.com/tonc/text/toc.htm
