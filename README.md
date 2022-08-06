@@ -290,6 +290,7 @@
 - https://ps1.consoledev.net/
 - https://www.copetti.org/writings/consoles/playstation/#sources
 - https://problemkaputt.de/psx-spx.htm
+- https://ffhacktics.com/wiki/PSX_instruction_set
 - https://web.archive.org/web/20190713020355/http://www.elisanet.fi/6581/PSX/doc/Playstation_Hardware.pdf - has a really clear explaination of vram and texture pages along with other confusing stuff
 - http://hitmen.c02.at/files/docs/psx/psx.pdf
 - http://hitmen.c02.at/html/psx_docs.html
