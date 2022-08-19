@@ -299,6 +299,7 @@
 ### Guides
 - https://github.com/simias/psx-guide
 - https://www.reddit.com/r/EmuDev/comments/fmhtcn
+- https://www.reddit.com/r/emulation/comments/8017j9/how_does_playstations_texture_cache_work/ (also see the same question posted earlier)
 
 ### Emulators
 - https://github.com/grumpycoders/pcsx-redux - really good one with debugger
