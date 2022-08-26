@@ -191,6 +191,13 @@
 * https://github.com/skylersaleh/GBA-Logs
 * https://github.com/samkravitz/gba-acid
 
+## NDS resources
+
+- https://www.copetti.org/writings/consoles/nintendo-ds/ (see resources inside)
+- nds section in https://emudev.org/system_resources
+- https://web.archive.org/web/20150812193438/http://www.auia.net/ds/
+- https://www.patater.com/files/projects/manual/manual.html
+
 ## NES resources
 
 ### Docs
