@@ -325,6 +325,7 @@
 ### Others
 - https://emudev.org/2020/03/27/PSX_BIOS.html
 - psx section in https://emudev.org/system_resources
+- http://lameguy64.net/tutorials/pstutorials/index.html (has some good explanations on various stuff)
 
 ## JIT
 
