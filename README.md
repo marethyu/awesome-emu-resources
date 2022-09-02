@@ -6,57 +6,6 @@
 * BGB http://bgb.bircd.org/
 * https://www.amidog.com/amiga/gbe/ (includes source code)
 
-### Emulator source codes
-* https://github.com/drhelius/Gearboy
-* https://gitlab.com/BenWiser/gameboy-emulator
-* https://github.com/Jonazan2/PatBoy
-* https://github.com/7thSamurai/Azayaka
-* https://github.com/spec-chum/SpecBoy
-* https://github.com/UnsafePointer/shinobu
-* https://bitbucket.org/pypy/lang-gameboy/src/default/
-* https://github.com/tbtommyb/goboy
-* https://bitbucket.org/xampf/r_gb/src/master/
-* https://github.com/sysprog21/jitboy
-* https://github.com/oo-00/php-terminal-gameboy-emulator
-* https://github.com/Xyene/Nitrous-Emulator
-* https://github.com/Gekkio/mooneye-gb
-* https://github.com/VelocityRa/rustboy
-* https://github.com/aidan-clyens/GBExperience
-* https://github.com/simias/gaembuoy
-* https://github.com/sinamas/gambatte
-* https://github.com/trekawek/coffee-gb
-* https://github.com/min050820/rust-gb
-* https://github.com/taisel/GameBoy-Online
-* https://github.com/Akatsuki-py/Worldwide
-* https://github.com/B13rg/VGBC
-* https://github.com/Baekalfen/PyBoy
-* https://github.com/BluestormDNA/ProjectDMG
-* https://github.com/CTurt/Cinoop/
-* https://github.com/CrociDB/mygbemu
-* https://github.com/DerekBoucher/FuuGBemu (pass blargg tests, simple)
-* https://github.com/Dooskington/GameLad
-* https://github.com/GoldenCrystal/CrystalBoy
-* https://github.com/Humpheh/goboy
-* https://github.com/JamesPeters98/JavaGameboyEmulator
-* https://github.com/danwsong/gemuboi-js
-* https://github.com/LIJI32/SameBoy
-* https://github.com/LilaQ/q00_gb
-* https://github.com/Hacktix/TixBoy
-* https://github.com/Washi1337/Emux
-* https://github.com/alexaladren/jsgameboy
-* https://github.com/cslarsen/gameboy
-* https://github.com/fwsGonzo/gamebro
-* https://github.com/geaz/emu-gameboy
-* https://github.com/gonccalo/gameboyGO
-* https://github.com/jgilchrist/gbemu
-* https://github.com/nbouchinet/gbmu
-* https://github.com/paramsingh/gameboi
-* https://github.com/qkmaxware/GBemu
-* https://github.com/rukai/GameToy
-* https://github.com/aksiksi/gbc
-* https://github.com/aksiksi/gbcemu
-* https://github.com/Amjad50/mizu
-
 ### Documentation
 * pandocs http://bgb.bircd.org/pandocs.htm
 * gb cycle timing http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt
@@ -326,6 +275,7 @@
 - https://emudev.org/2020/03/27/PSX_BIOS.html
 - psx section in https://emudev.org/system_resources
 - http://lameguy64.net/tutorials/pstutorials/index.html (has some good explanations on various stuff)
+- https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt
 
 ## JIT
 
