@@ -33,6 +33,7 @@
 * gb opcodes https://izik1.github.io/gbops/
 * hardware report http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf
 * zilog cpu user manual https://zany80.github.io/documentation/Z80/UserManual.html
+* ppu docs https://github.com/mattcurrie/mealybug-tearoom-tests/blob/master/the-comprehensive-game-boy-ppu-documentation.md
 
 ### Tests
 * blargg tests https://gbdev.gg8.se/files/roms/blargg-gb-tests/
