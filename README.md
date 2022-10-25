@@ -107,6 +107,7 @@
 * https://github.com/mara-kr/GBA/tree/master/doc
 * https://merryhime.github.io/gba-doc/
 * http://gbadev.net/gbadoc/intro.html
+* https://github.com/nba-emu/hw-docs
 
 ### Tutorials
 * gba programming guide http://www.coranac.com/tonc/text/toc.htm
