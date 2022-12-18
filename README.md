@@ -267,7 +267,7 @@
 
 ### tests
 - https://emulation.gametechwiki.com/index.php/PS1_Tests
-- https://github.com/PeterLemon/PSX
+- https://github.com/PeterLemon/PSX (fork: https://github.com/RobertPeip/PSX)
 - https://github.com/JaCzekanski/ps1-tests
 - https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src
 - https://github.com/simias/psx-hardware-tests/tree/master/tests
