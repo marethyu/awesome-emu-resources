@@ -148,6 +148,7 @@
 - nds section in https://emudev.org/system_resources
 - https://web.archive.org/web/20150812193438/http://www.auia.net/ds/
 - https://www.patater.com/files/projects/manual/manual.html
+- https://github.com/RockPolish/rockwrestler
 
 ## NES resources
 
