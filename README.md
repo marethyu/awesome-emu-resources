@@ -273,6 +273,7 @@
 - https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src
 - https://github.com/simias/psx-hardware-tests/tree/master/tests
 - https://www.pouet.net/prodlist.php?order=thumbup&platform%5B0%5D=Playstation&page=1
+- https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom
 
 ### Others
 - https://emudev.org/2020/03/27/PSX_BIOS.html
