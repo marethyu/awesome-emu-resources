@@ -129,6 +129,7 @@
 
 ### Tests
 * https://github.com/destoer/armwrestler-gba-fixed
+* https://github.com/Atem2069/armwrestler-fixed
 * https://github.com/jsmolka/gba-suite
 * https://github.com/DenSinH/GBARoms
 * https://github.com/destoer/gba_tests
