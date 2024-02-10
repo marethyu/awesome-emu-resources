@@ -179,6 +179,7 @@
 * https://www.reddit.com/r/EmuDev/comments/evu3u2/what_does_the_nes_ppu_actually_do/
 * https://www.reddit.com/r/EmuDev/comments/d49igt/how_should_i_implement_ppu_nes/
 * https://www.reddit.com/r/EmuDev/comments/ht0ajj/ppu_emulation_issue/
+* https://www.reddit.com/r/EmuDev/comments/1amxrdu/can_someone_explain_to_me_the_purpose_of_shift/
 
 ### APU
 * http://www.slack.net/~ant/nes-emu/apu_ref.txt
