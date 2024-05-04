@@ -83,6 +83,7 @@
 * custom Boot ROM https://github.com/Hacktix/Bootix
 * PokeGB https://binji.github.io/posts/pokegb/
 * https://keichi.dev/post/write-yourself-a-game-boy-emulator/
+* https://gbdev.io/gb-asm-tutorial/index
 
 ## GBA resources
 
