@@ -123,6 +123,7 @@
 * https://macabeus.medium.com/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02
 * https://github.com/gbdev/awesome-gbadev
 * https://www.gregorygaines.com/blog/decoding-the-arm7tdmi-instruction-set-game-boy-advance/
+* https://www.gregorygaines.com/blog/emulator-polling-vs-scheduler-game-loop/
 * https://beanmachine.alt.icu/post/rtc/
 * https://github.com/JimB16/GBABios/blob/master/GBABios.s
 * http://ianfinlayson.net/class/cpsc305/notes/13-tiles
