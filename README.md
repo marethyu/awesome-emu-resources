@@ -131,7 +131,6 @@
 
 ### Tests
 * https://github.com/destoer/armwrestler-gba-fixed
-* https://github.com/Atem2069/armwrestler-fixed
 * https://github.com/jsmolka/gba-suite
 * https://github.com/DenSinH/GBARoms
 * https://github.com/destoer/gba_tests
@@ -152,6 +151,7 @@
 - https://web.archive.org/web/20150812193438/http://www.auia.net/ds/
 - https://www.patater.com/files/projects/manual/manual.html
 - https://github.com/RockPolish/rockwrestler
+- https://github.com/Atem2069/armwrestler-fixed
 
 ## NES resources
 
