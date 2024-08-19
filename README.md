@@ -110,6 +110,7 @@
 * https://merryhime.github.io/gba-doc/
 * http://gbadev.net/gbadoc/intro.html
 * https://github.com/nba-emu/hw-docs
+* https://github.com/falvarez/gba-doc
 
 ### Tutorials
 * gba programming guide http://www.coranac.com/tonc/text/toc.htm
