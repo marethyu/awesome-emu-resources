@@ -117,6 +117,7 @@
 * gba dev https://jamiedstewart.github.io/category/Game%20Boy%20Advance.html
 * writing gba game https://www.reinterpretcast.com/writing-a-game-boy-advance-game
 * https://www.chibialiens.com/arm/helloworld.php#LessonH2
+* https://emudev.org/2021/01/31/cached-interpreter.html
 
 ### Others
 * gba resources https://en.wikibooks.org/wiki/GBA_Development/Resources
